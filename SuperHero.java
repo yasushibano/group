@@ -20,7 +20,5 @@ public class SuperHero extends Hero{
 	public void run() {
 		System.out.println(this.getName() + "は撤退した！");
 	}
-//	public void slip() {   finalメソッドはオーバーライド不可能！
-		
-//	}
+
 }

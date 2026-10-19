@@ -1,4 +1,5 @@
 public class Hero{
-	String Hero;	
+	String Hero;
+	int hp;
 }
 

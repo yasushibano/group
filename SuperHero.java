@@ -1,5 +1,3 @@
-package code10_07;
-
 public class SuperHero extends Hero{
 	private boolean flying;
 	public boolean isFlying() {

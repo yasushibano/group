@@ -1,7 +1,7 @@
 public class Matango {
 
 	int hp;
-	final int LEVEL = 10;
+	final int LEVEL = 50;
 	char suffix;
 
 	public void run() {

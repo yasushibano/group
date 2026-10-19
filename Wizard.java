@@ -1,10 +1,8 @@
-package code09_05;
-
 public class Wizard {
  String name;
  int hp;
  public void heal(Hero h) {
- h.hp += 10;
+ h.hp += 20;
  System.out.println(h.name + "のHPを10回復した！");
  }
 }
